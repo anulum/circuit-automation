@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "CIRCUIT-AUTOMATION",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "d9cd66d568614efbb9bd56db0bad8cd33f944814861f9d14c81f577ba842a74f"
+  }
+}

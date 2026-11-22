@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic laboratory and cleanroom workcell automation: equipment and cell profiles, robotic handling tasks, input-surface safety clamps, command journals, state reconciliation, lockout-tagout recovery plans and resource reservations. No equipment controller, robotics runner, surface-clamp daemon or qualified record schema is released.",
+  "keywords": [
+    "equipment automation",
+    "input-surface clamping",
+    "workcell reconciliation",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Automation",
+  "upload_type": "software"
+}

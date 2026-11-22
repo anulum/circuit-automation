@@ -1,0 +1,33 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "domain_runtime_dependencies": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
+  "planned_owned_schema_ids": [
+    "circuit_automation.equipment_profile.v1",
+    "circuit_automation.cell_profile.v1",
+    "circuit_automation.robot_task.v1",
+    "circuit_automation.command_event.v1",
+    "circuit_automation.state_observation.v1",
+    "circuit_automation.reconciliation_record.v1",
+    "circuit_automation.autonomy_envelope.v1",
+    "circuit_automation.recovery_plan.v1",
+    "circuit_automation.resource_reservation.v1"
+  ],
+  "qualified_owned_schema_ids": [],
+  "repository_name": "CIRCUIT-AUTOMATION",
+  "tooling_python": {
+    "actual_version": "3.13.16",
+    "design_baseline": "3.13",
+    "development_lock_sha256": "780eaa4e82567f538af1278ad78bd7de805a302d31d5353511e911d8ce5e80c3",
+    "supported_range": ">=3.13.16,<3.14"
+  },
+  "validation_profile": {
+    "id": "gotm.enterprise-repository-tier0.local-scaffold",
+    "profile_sha256": "f453a70eae008c41f8d26a1f495ec3636f64739bcedb9caac0bdf8774300905c",
+    "revision": "2026-10-04",
+    "standard_sha256": "8421674a61444474447fad2f4d2bfc54dc5a1ea12ae988785e57dbcab385938c"
+  }
+}
