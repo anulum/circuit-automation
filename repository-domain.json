@@ -3,7 +3,7 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "circuit_automation.equipment_profile.v1",
@@ -16,6 +16,7 @@
     "circuit_automation.recovery_plan.v1",
     "circuit_automation.resource_reservation.v1"
   ],
+  "public_remote": "https://github.com/anulum/circuit-automation",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-AUTOMATION",
   "tooling_python": {
